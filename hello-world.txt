@@ -1,0 +1,2 @@
+welcome to the odin project.
+where programmers are made!
